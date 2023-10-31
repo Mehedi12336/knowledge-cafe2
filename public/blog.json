@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "cover_image_1.jpg",
+        "title": "The Secret Garden",
+        "author": "Emily Green",
+        "author_img": "https://i.ibb.co/Ngvx0w9/1687768853215.jpg",
+        "posted_date": "2023-10-15",
+        "reading_time": 20,
+        "hashtags": ["fiction", "gardening", "mystery"]
+      },
+      {
+        "id": 2,
+        "cover": "cover_image_2.jpg",
+        "title": "Beyond the Stars",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/Ngvx0w9/1687768853215.jpg",
+        "posted_date": "2023-09-28",
+        "reading_time": 30,
+        "hashtags": ["sciencefiction", "adventure", "space"]
+      },
+      {
+        "id": 3,
+        "cover": "cover_image_3.jpg",
+        "title": "A Taste of History",
+        "author": "Sarah Baker",
+        "author_img": "https://i.ibb.co/Ngvx0w9/1687768853215.jpg",
+        "posted_date": "2023-10-10",
+        "reading_time": 25,
+        "hashtags": ["history", "food", "culture"]
+      },
+      {
+        "id": 4,
+        "cover": "cover_image_4.jpg",
+        "title": "The Enchanted Forest",
+        "author": "David Woods",
+        "author_img": "https://i.ibb.co/Ngvx0w9/1687768853215.jpg",
+        "posted_date": "2023-10-20",
+        "reading_time": 18,
+        "hashtags": ["fantasy", "adventure", "magic"]
+      },
+      {
+        "id": 5,
+        "cover": "cover_image_5.jpg",
+        "title": "Cooking with Love",
+        "author": "Maria Sanchez",
+        "author_img": "https://i.ibb.co/Ngvx0w9/1687768853215.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": 35,
+        "hashtags": ["cooking", "recipes", "love"]
+      }
+]
